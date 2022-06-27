@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/JacksonJeanPS">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JacksonJeanPS&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonJeanPS&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -33,6 +33,7 @@
   <!-- <a href="https://www.facebook.com/jackson.jean.sousa/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/jackson-jean-p-a72350124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="jacksonjean01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5583986390385" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
