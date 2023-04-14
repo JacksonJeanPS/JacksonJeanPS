@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jackson-jean-p-a72350124/"><i>Jackson Jean</i></a> 😃️</h1>
   <p align="center">Estou estudando para me tornar um Front-End na <a href="https://devaria.com.br/carreiras/3"><i>Devaria</i></a>
-  <p align="center">É estou estudando na <a href="https://www.dio.me/"><i>Dio.me</i></a>
+  <p align="center">Também estou cursando alguns curso na <a href="https://www.dio.me/"><i>Dio.me</i> para me tornar um FULLSTACK</a>
   <p align="center">Já segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
