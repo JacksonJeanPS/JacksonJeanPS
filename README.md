@@ -1,16 +1,9 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jackson-jean-p-a72350124/"><i>Jackson Jean</i></a> 😃️</h1>
-  <p align="center">Estou estudando para me tornar um Front-End na <a href="https://devaria.com.br/carreiras/3"><i>Devaria</i></a>
-  <p align="center">Também estou cursando alguns curso na <a href="https://www.dio.me/"><i>Dio.me</i></a> para me tornar um FULLSTACK.
+  <p align="center">Estou estudando para me tornar um FULLSTACK na <a href="https://www.dio.me/"><i>Dio.me</i></a>
   <p align="center">Já segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
   <a href="https://github.com/JacksonJeanPS">
