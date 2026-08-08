@@ -63,7 +63,7 @@ Minha atuação conecta **suporte, infraestrutura, segurança e automação**: i
 
 ## Projetos selecionados
 
-### [IT Asset Manager](https://github.com/JacksonJeanPS/sistema-estoque)
+### IT Asset Manager · projeto privado
 
 Sistema de gestão de estoque e ativos com visão gerencial, controle individual de produtos, entradas, saídas, vendas, equipes e regras para impedir movimentações sem saldo.
 
