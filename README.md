@@ -1,57 +1,87 @@
-# Olá, eu sou Jackson Jean 👋
+<div align="center">
 
-## Analista de Suporte e Infraestrutura de TI | Automação e Operações
+# Jackson Jean
 
-Atuo com suporte e infraestrutura em ambientes corporativos de alta disponibilidade, combinando diagnóstico técnico, padronização, segurança e automação para resolver incidentes e melhorar a operação.
+### Analista de Suporte Pleno • Infraestrutura • Automação • Segurança
 
-Minha experiência inclui **Windows, Active Directory, redes, inventário, suporte remoto e presencial, análise de aplicações e automações com PowerShell e Python**.
+Transformo incidentes, tarefas repetitivas e ambientes complexos em soluções documentadas, seguras e escaláveis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson_Jean-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-jean-p-a72350124/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonjean01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson%20Jean-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-jean-p-a72350124/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonjean01@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://jacksonjeanps.github.io/)
 
-## Experiência em destaque
+</div>
 
-- Suporte técnico a contratos e operações corporativas de alta disponibilidade.
-- Diagnóstico de falhas em Windows, aplicações web, navegadores, VPN, rede e serviços.
-- Administração e suporte envolvendo Active Directory, SCCM, KACE SMA, Sophos XDR e ferramentas de acesso remoto.
-- Criação de imagens Windows personalizadas, padronização de equipamentos e ajustes de VLAN.
-- Automação de tarefas com PowerShell, Python e scripts BAT.
-- Controle de estoque de equipamentos e periféricos, com indicadores operacionais e documentação.
-- Criação de bases de conhecimento e treinamento de novos colaboradores.
-- Apoio à implantação e sustentação de novas operações.
+## Sobre mim
 
-## Competências técnicas
+Sou **Analista de Suporte PL**, com experiência em sustentação de ambientes corporativos de alta disponibilidade, atendimento remoto e presencial, implantação de operações e análise de incidentes.
 
-| Área | Tecnologias e práticas |
+Minha atuação conecta **suporte, infraestrutura, segurança e automação**: investigo falhas em Windows, aplicações web, VPN e redes; administro identidades e endpoints; padronizo equipamentos; crio documentação e automatizo rotinas com PowerShell, Python e scripts BAT.
+
+- Diagnóstico estruturado de incidentes, causa raiz e melhoria contínua
+- Windows 10/11, Windows Server, Active Directory, GPO, RDP e criação de imagens
+- Redes TCP/IP, DNS, DHCP, VLAN, VPN e troubleshooting
+- Inventário, distribuição de software e segurança de endpoints
+- Análise de logs, Microsoft Edge DevTools, APIs e aplicações corporativas
+- Automação, documentação técnica, base de conhecimento e treinamento
+- Implantação e sustentação de operações críticas
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Microsoft Edge](https://img.shields.io/badge/Edge%20DevTools-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+## Experiência que entrego
+
+| Pilar | Entregas |
 | --- | --- |
-| Sistemas | Windows 10/11, Windows Server, Active Directory e GPO |
-| Infraestrutura | Redes TCP/IP, DNS, DHCP, VLAN, VPN, RDP e troubleshooting |
-| Automação | PowerShell, Python, BAT e integração com planilhas |
-| Gestão e segurança | KACE SMA, SCCM, Sophos XDR, inventário, auditoria e LGPD |
-| Aplicações | Edge DevTools, análise de logs, APIs, HTML5, CSS3 e JavaScript |
-| Métodos | Gestão de incidentes, documentação técnica, base de conhecimento e melhoria contínua |
+| **Suporte e operações** | Atendimento N2, análise de causa, gestão de incidentes, sustentação e implantação |
+| **Infraestrutura** | AD, GPO, endpoints Windows, redes, VLAN, VPN, acesso remoto e padronização |
+| **Segurança** | Hardening, EDR, auditoria, LGPD, controle de acesso e tratamento seguro de dados |
+| **Automação** | PowerShell, Python e BAT para reduzir trabalho manual e aumentar a confiabilidade |
+| **Observabilidade** | Logs de aplicações, navegador e sistema; diagnóstico baseado em evidências |
+| **Conhecimento** | Procedimentos, bases de conhecimento, inventário e treinamento de equipes |
 
-## Projetos em destaque
+## Projetos selecionados
 
-### [Pokédex Interativa](https://github.com/JacksonJeanPS/developer-pokedex)
+### [IT Asset Manager](https://github.com/JacksonJeanPS/sistema-estoque)
 
-Aplicação em JavaScript puro consumindo a PokeAPI, com busca por nome ou ID, paginação segura, filtros, favoritos, temas, tratamento de erros e modal acessível.
+Sistema de gestão de estoque e ativos com visão gerencial, controle individual de produtos, entradas, saídas, vendas, equipes e regras para impedir movimentações sem saldo.
+
+### [MJ Lanches](https://github.com/JacksonJeanPS/mj-lanches)
+
+Cardápio online responsivo com carrinho persistente e checkout pelo WhatsApp, incluindo validação de dados, limites de quantidade e tratamento seguro do conteúdo armazenado no navegador.
+
+### [Developer Pokédex](https://github.com/JacksonJeanPS/developer-pokedex)
+
+Aplicação JavaScript integrada à PokeAPI, com busca por nome ou ID, paginação sem duplicidade, cache, favoritos, estados de carregamento, tratamento de erros e acessibilidade.
 
 ### [Projeto BuzzFeed](https://github.com/JacksonJeanPS/projeto-buzzfeed)
 
-Aplicação Angular e TypeScript com componentes reutilizáveis, quiz interativo, responsividade, acessibilidade, filtros, temas e deploy no GitHub Pages.
+Quiz desenvolvido com Angular e TypeScript, organizado em componentes reutilizáveis e preparado para diferentes telas.
 
 ### [API Sacola iFood](https://github.com/JacksonJeanPS/sacola-api_IFOOD_DEV)
 
-Projeto backend para praticar construção de APIs, regras de negócio e organização de uma aplicação Java.
-
-### [Multiverso Spider-Man](https://github.com/JacksonJeanPS/Multverso-Spiderman)
-
-Experiência web responsiva com HTML, CSS e JavaScript, incluindo carrossel 3D, navegação por teclado e suporte a gestos em dispositivos móveis.
-
-### [Currículo e portfólio online](https://github.com/JacksonJeanPS/jacksonjean.github.io)
-
-Apresentação profissional focada em suporte, infraestrutura, experiência, competências e projetos.
+API em Java voltada à prática de backend, regras de negócio e organização em camadas.
 
 ## Certificações
 
@@ -61,13 +91,25 @@ Apresentação profissional focada em suporte, infraestrutura, experiência, com
 - **Cybersecurity Awareness Professional Certification (CAPC)** — CertiProf, 2025
 - Treinamentos corporativos em **ISO 9001, ISO 27001, Segurança da Informação, Compliance e LGPD**
 
-## Atualmente
-
-- Aprofundando conhecimentos em automação, Python e infraestrutura.
-- Construindo projetos que conectam desenvolvimento de software a problemas reais de suporte e operações de TI.
-- Evoluindo práticas de observabilidade, documentação, segurança e análise de incidentes.
+## GitHub em números
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JacksonJeanPS&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Jackson Jean">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonJeanPS&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas por Jackson Jean">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JacksonJeanPS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub de Jackson Jean">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonJeanPS&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos">
+</div>
+
+## Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacksonJeanPS/JacksonJeanPS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacksonJeanPS/JacksonJeanPS/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha percorrendo as contribuições de Jackson Jean" src="https://raw.githubusercontent.com/JacksonJeanPS/JacksonJeanPS/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+
+### Suporte + Infraestrutura + Automação
+
+Aberto a oportunidades em que diagnóstico técnico, confiabilidade e melhoria contínua façam diferença.
+
 </div>
