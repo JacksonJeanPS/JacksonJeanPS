@@ -2,19 +2,19 @@
 
 # Jackson Jean
 
-### Analista de Suporte Pleno • Infraestrutura • Automação • Segurança
+### Analista de Suporte Sênior • Infraestrutura • Automação • Segurança
 
 Transformo incidentes, tarefas repetitivas e ambientes complexos em soluções documentadas, seguras e escaláveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jackson%20Jean-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-jean-p-a72350124/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonjean01@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://jacksonjeanps.github.io/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://jacksonjeanps-ti.vercel.app/)
 
 </div>
 
 ## Sobre mim
 
-Sou **Analista de Suporte PL**, com experiência em sustentação de ambientes corporativos de alta disponibilidade, atendimento remoto e presencial, implantação de operações e análise de incidentes.
+Sou **Analista de Suporte Sênior**, com experiência em sustentação de ambientes corporativos de alta disponibilidade, atendimento remoto e presencial, implantação de operações e análise de incidentes.
 
 Minha atuação conecta **suporte, infraestrutura, segurança e automação**: investigo falhas em Windows, aplicações web, VPN e redes; administro identidades e endpoints; padronizo equipamentos; crio documentação e automatizo rotinas com PowerShell, Python e scripts BAT.
 
@@ -63,6 +63,18 @@ Minha atuação conecta **suporte, infraestrutura, segurança e automação**: i
 
 ## Projetos selecionados
 
+### Portfólio de experiências digitais
+
+| Projeto | Segmento | Demonstração | Código |
+| --- | --- | --- | --- |
+| **Studio Nobre** | Barbearia premium | [Acessar site](https://studio-nobre-barbearia.vercel.app/) | [GitHub](https://github.com/JacksonJeanPS/studio-nobre-barbearia) |
+| **Clínica Vitta Saúde** | Saúde e bem-estar | [Acessar site](https://clinica-vitta-saude.vercel.app/) | [GitHub](https://github.com/JacksonJeanPS/clinica-vitta-saude) |
+| **Forno & Brasa** | Restaurante | [Acessar site](https://forno-e-brasa-restaurante.vercel.app/) | [GitHub](https://github.com/JacksonJeanPS/orno-e-brasa-restaurante) |
+| **Atlas Prime** | Academia | [Acessar site](https://atlas-prime-academia.vercel.app/) | [GitHub](https://github.com/JacksonJeanPS/atlas-prime-academia) |
+| **Horizonte Imóveis** | Imobiliária | [Acessar site](https://horizonte-imoveis-fortaleza.vercel.app/) | [GitHub](https://github.com/JacksonJeanPS/horizonte-imoveis-fortaleza) |
+
+Projetos responsivos construídos com **Next.js, React e TypeScript**, com foco em experiência do usuário, conversão, SEO e deploy contínuo na Vercel.
+
 ### IT Asset Manager · projeto privado
 
 Sistema de gestão de estoque e ativos com visão gerencial, controle individual de produtos, entradas, saídas, vendas, equipes e regras para impedir movimentações sem saldo.
@@ -108,7 +120,7 @@ API em Java voltada à prática de backend, regras de negócio e organização e
 
 <div align="center">
 
-### Suporte + Infraestrutura + Automação
+### Suporte Sênior + Infraestrutura + Automação
 
 Aberto a oportunidades em que diagnóstico técnico, confiabilidade e melhoria contínua façam diferença.
 
