@@ -63,6 +63,15 @@ Minha atuação conecta **suporte, infraestrutura, segurança e automação**: i
 
 ## Projetos selecionados
 
+### [Sentinel TI](https://github.com/JacksonJeanPS/sentinel-ti)
+
+Plataforma full stack de inteligência e diagnóstico para análise defensiva de IPs, domínios, URLs, hashes, certificados TLS e vulnerabilidades CVE. Consolida evidências de diferentes fontes, calcula risco e confiança de forma explicável e protege os dados por usuário com Supabase PostgreSQL e RLS.
+
+[![Sentinel TI](https://raw.githubusercontent.com/JacksonJeanPS/sentinel-ti/main/docs/images/sentinel-ti-preview.svg)](https://sentinel-ti-jackson.vercel.app)
+
+**Stack:** Next.js 16, React 19, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Vitest, Playwright, GitHub Actions e Vercel.  
+**[Demonstração](https://sentinel-ti-jackson.vercel.app)** · **[Código e documentação](https://github.com/JacksonJeanPS/sentinel-ti)**
+
 ### Portfólio de experiências digitais
 
 | Projeto | Segmento | Demonstração | Código |
